@@ -15,6 +15,10 @@ msreviewer: andredm7
 # Device registration overview
 
 Windows Autopatch must [register your existing devices](windows-autopatch-register-devices.md) into its service to manage update deployments on your behalf.
+<details> 
+  <summary>Expand this section for an interactive demo </summary>
+   <iframe id="autopatch-device-registration" scrolling="no" src="https://regale.cloud/Microsoft/viewer/1540/index.html#/2/0" title="Windows Autopatch Device Registration Interactive demo" width="100%" height="1080" frameborder="0" allowfullscreen></iframe>
+</details>
 
 The Windows Autopatch device registration process is transparent for end-users because it doesn’t require devices to be reset.
 
